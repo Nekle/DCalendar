@@ -1,0 +1,24 @@
+{
+  "name": "DCalendar",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dmuy/DCalendar",
+	"main": [
+	  "dcalendar.picker.js",
+	  "dcalendar.picker.css"
+	],
+  "authors": [
+    "dionleeuy@gmail.com"
+  ],
+  "keywords": [
+    "calendar",
+    "picker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
