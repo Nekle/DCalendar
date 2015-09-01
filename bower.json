@@ -3,8 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://github.com/dmuy/DCalendar",
 	"main": [
-	  "dcalendar.picker.js",
-	  "dcalendar.picker.css"
+	  "dcalendar.picker.js"
 	],
   "authors": [
     "dionleeuy@gmail.com"
